@@ -1,0 +1,3 @@
+This is a file named 'this.txt'
+In this file I am writing just random things things.
+I would copy this to 'copy.txt' file... okay? oh okay..
